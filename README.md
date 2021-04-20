@@ -6,10 +6,18 @@
 * I'm learning English ✈
 * I'm living in Aracaju 🌴 
 
-### Skills :
+### Skills:
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="100" height= "100" style="max-
 width:100%;"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="rails" width="100" height= "100" style="max-
 width:100%;">
+
+### Social Networks: 
+<a href = "https://www.facebook.com/kaio.andraderodrigues/" targe="_blank">
+<img align="center" alt="Kaio-Face" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
+style="max-width:100%;"> <a href = "https://www.instagram.com/kaioozy/" targe="_blank">
+<img align="center" alt="Kaio-Insta" height="50" width="60" src="http://portal.utfpr.edu.br/cursos/coordenacoes/graduacao/pato-branco/pb-administracao/imagens/logoinstagram.png"
+style="max-width:100%;"> 
+
 
     
     
