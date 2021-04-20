@@ -1,9 +1,10 @@
 
 
 ### Hi, My names is Kaio 👋
-* I'm learning Python and Java 
-* Studing in Tiradentes Univesity
-* English Basic
+* I'm learning Python and Java 👨‍💻
+* Studing in Tiradentes Univesity 👨‍🎓
+* I'm learning English ✈
+* I'm living in Aracaju 🌴 
 
 ### Skills :
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="50" height= "60" style="max-
