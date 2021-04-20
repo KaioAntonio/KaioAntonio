@@ -1,8 +1,8 @@
 
 
-### Hi, My names is Kaio 👋
+### Hi, My name is Kaio 👋
 * I'm learning Python and Java 👨‍💻
-* Studying in Tiradentes Univesity 👨‍🎓
+* Studying science computer in Tiradentes Univesity 👨‍🎓
 * I'm learning English ✈
 * I'm living in Aracaju 🌴 
 
