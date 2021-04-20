@@ -2,7 +2,7 @@
 
 ### Hi, My names is Kaio 👋
 * I'm learning Python and Java 👨‍💻
-* Studing in Tiradentes Univesity 👨‍🎓
+* Studying in Tiradentes Univesity 👨‍🎓
 * I'm learning English ✈
 * I'm living in Aracaju 🌴 
 
