@@ -1,4 +1,17 @@
-### Hi there 👋
+
+
+### Hi, My names is Kaio 👋
+* I'm learning Python and Java 
+* Studing in Tiradentes Univesity
+* English Basic
+
+### Skills :
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="50" height= "60" style="max-
+width:100%;"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="rails" width="50" height= "60" style="max-
+width:100%;">
+
+    
+    
 
 <!--
 **KaioAntonio/KaioAntonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
