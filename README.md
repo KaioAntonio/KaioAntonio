@@ -4,7 +4,7 @@
 * I'm learning Python and Java 👨‍💻
 * Studying Computer science in Tiradentes Univesity 👨‍🎓
 * I'm learning English ✈
-* I'm living in Aracaju 🌴 
+* I'm living in Aracaju-SE 🌴 
 
 ### Skills:
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="100" height= "100" style="max-
