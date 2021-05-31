@@ -15,7 +15,7 @@ width:100%;">
 <a href = "https://www.facebook.com/kaio.andraderodrigues/" targe="_blank">
 <img align="center" alt="Kaio-Face" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
 style="max-width:100%;"> <a href = "https://www.instagram.com/kaioozy/" targe="_blank">
-<img align="center" alt="Kaio-Insta" height="50" width="60" src="http://portal.utfpr.edu.br/cursos/coordenacoes/graduacao/pato-branco/pb-administracao/imagens/logoinstagram.png"
+<img align="center" alt="Kaio-Insta" height="50" width="60" src="https://images-ext-1.discordapp.net/external/ta-yd8LGK_1WNaPMjZRgeUqVMNA15_wkvVtsJyCPQ3A/https/imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png?width=473&height=473"
 style="max-width:100%;"> 
 
 
