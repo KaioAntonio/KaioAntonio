@@ -9,8 +9,7 @@
 ### Skills:
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="100" height= "100" style="max-
 width:100%;"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="rails" width="100" height= "100" style="max-
-width:100%;"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" alt="rails" width="100" height= "100" style="max-
-width:100%;"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="rails" width="100" height= "100" style="max-
+width:100%;">  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="rails" width="100" height= "100" style="max-
 width:100%;"> 
 
 ### Social Networks: 
