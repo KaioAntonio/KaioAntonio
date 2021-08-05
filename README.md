@@ -28,7 +28,10 @@ style="max-width:100%;">
 <img align="center" alt="Kaio-Linkedin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 style="max-width:100%;"> 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=KaioAntonio" alt="KaioAntonio" /></p>
+
+  
+
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=KaioAntonio" alt="KaioAntonio" /></p>
 
     
     
