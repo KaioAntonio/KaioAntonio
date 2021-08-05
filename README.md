@@ -20,12 +20,12 @@ width:100%;">
 
 ### Social Networks: 
 <a href = "https://www.facebook.com/kaio.andraderodrigues/" targe="_blank">
-<img align="center" alt="Kaio-Face" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
+<img align="center" alt="Kaio-Face" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
 style="max-width:100%;"> <a href = "https://www.instagram.com/kaioozy/" targe="_blank">
-<img align="center" alt="Kaio-Insta" height="50" width="60" src="https://images-ext-1.discordapp.net/external/ta-yd8LGK_1WNaPMjZRgeUqVMNA15_wkvVtsJyCPQ3A/https/imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png?width=473&height=473"
+<img align="center" alt="Kaio-Insta" height="40" width="50" src="https://images-ext-1.discordapp.net/external/ta-yd8LGK_1WNaPMjZRgeUqVMNA15_wkvVtsJyCPQ3A/https/imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png?width=473&height=473"
 style="max-width:100%;"> 
 <a href = "https://www.linkedin.com/in/kaio-antônio-andrade-rodrigues-7ba697217/" targe="_blank">    
-<img align="center" alt="Kaio-Linkedin" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+<img align="center" alt="Kaio-Linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 style="max-width:100%;"> 
 
 
