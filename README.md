@@ -27,10 +27,8 @@ style="max-width:100%;">
 <a href = "https://www.linkedin.com/in/kaio-antônio-andrade-rodrigues-7ba697217/" targe="_blank">    
 <img align="center" alt="Kaio-Linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 style="max-width:100%;"> 
-
-
   
-
+###Profile Views : 
   <p align="center"><img src="https://komarev.com/ghpvc/?username=KaioAntonio" alt="KaioAntonio" /></p>
 
     
