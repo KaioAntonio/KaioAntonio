@@ -28,7 +28,7 @@ style="max-width:100%;"> <a href = "https://www.instagram.com/kaioozy/" targe="_
 <img align="center" alt="Kaio-Insta" height="40" width="50" src="https://images-ext-1.discordapp.net/external/ta-yd8LGK_1WNaPMjZRgeUqVMNA15_wkvVtsJyCPQ3A/https/imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon-1.png?width=473&height=473"
 style="max-width:100%;">
 
-###Visitor count:
+### Visitor count:
 </p>
 
 <p align="center"> 
