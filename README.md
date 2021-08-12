@@ -28,9 +28,12 @@ style="max-width:100%;">
 <img align="center" alt="Kaio-Linkedin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 style="max-width:100%;"> 
   
-###Profile Views : 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=KaioAntonio" alt="KaioAntonio" /></p>
+</p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/KaioAntonio/count.svg" />
+</p>
     
     
 
