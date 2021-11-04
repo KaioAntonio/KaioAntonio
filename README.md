@@ -12,7 +12,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioAntonio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Skills:
+### Languages:
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;">  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
@@ -21,6 +21,16 @@ width:100%;">
 width:100%;"> 
  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;"> 
+  
+### Frameworks:
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
+width:100%;"> 
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="rails" width="50" height= "50" style="max-
+width:100%;"> 
+
+### Tools: 
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
+width:100%;">   
 
 ### Social Networks: 
 <a href = "https://www.linkedin.com/in/kaio-antônio-andrade-rodrigues-7ba697217/" targe="_blank">    
