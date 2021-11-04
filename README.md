@@ -17,14 +17,14 @@
 width:100%;"> 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;"> 
-  
+
 ### Frameworks:
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;"> 
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;"> 
 
-### Tools: 
+###  Tools: 
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;">   
 
