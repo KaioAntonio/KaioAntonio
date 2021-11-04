@@ -35,7 +35,7 @@ width:100%;">
 width:100%;">   
 
 ### Social Networks: 
-<a href = "https://cdn-icons-png.flaticon.com/512/61/61109.png" targe="_blank">    
+<a href = "https://www.linkedin.com/in/kaio-antônio-andrade-rodrigues-7ba697217/" targe="_blank">    
 <img align="center" alt="Kaio-Linkedin" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/61/61109.png"
 style="max-width:100%;"> 
 <a href = "https://www.facebook.com/kaio.andraderodrigues/" targe="_blank">
