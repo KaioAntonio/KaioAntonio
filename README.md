@@ -21,6 +21,7 @@ width:100%;">
 ### Frameworks:
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="rails" width="50" height= "50" style="max-
+width:100%;"> <img src = "https://iconape.com/wp-content/png_logo_vector/materialize-logo.png" alt="rails" width="50" height= "50" style="max-
 width:100%;">
 
 
