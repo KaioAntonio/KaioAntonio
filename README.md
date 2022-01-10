@@ -38,7 +38,7 @@ width:100%;">
 
 ### Social Networks: 
 <a href = "https://www.linkedin.com/in/kaio-antônio-andrade-rodrigues-7ba697217/" targe="_blank">    
-<img align="center" alt="Kaio-Linkedin" height="40" width="50" src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1639264139~hmac=6fc199ed64aee9ed31eeaf2b5bfd6515"
+<img align="center" alt="Kaio-Linkedin" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
 style="max-width:100%;"> 
 <a href = "https://www.facebook.com/kaio.andraderodrigues/" targe="_blank">
 <img align="center" alt="Kaio-Face" height="40" width="50" src="https://cdn-icons-png.flaticon.com/128/174/174848.png"
