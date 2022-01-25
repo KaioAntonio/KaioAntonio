@@ -1,4 +1,4 @@
-
+<body align="center">
 
 ### Hi, My name is Kaio 👋
 * I'm learning Python and Java 👨‍💻
