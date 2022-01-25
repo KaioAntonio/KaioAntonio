@@ -1,11 +1,11 @@
 
-
+<p align="center">
 ### Hi, My name is Kaio 👋
 * I'm learning Python and Java 👨‍💻
 * Studying Computer science at Tiradentes Univesity 👨‍🎓
 * I'm learning English ✈
 * I'm living in Aracaju-SE 🌴 
-
+</p>
 <div>
   <a href="https://github.com/KaioAntonio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KaioAntonio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
