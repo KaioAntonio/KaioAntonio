@@ -49,10 +49,10 @@ style="max-width:100%;"> <a href = "https://www.instagram.com/kaioozy/" targe="_
 style="max-width:100%;">
   
 <p align="center"> 
-### Visitor count:
+  ### Visitor count:
   </p>
     <img src="https://profile-counter.glitch.me/KaioAntonio/count.svg" />
   </p>
- </p>
+</p>
     
     
