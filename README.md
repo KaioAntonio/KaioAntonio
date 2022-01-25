@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <p>Languages:</p>
+Languages:
  
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;"> 
