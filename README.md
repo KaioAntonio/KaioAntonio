@@ -39,7 +39,7 @@ width:100%;">   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/h
 width:100%;">  
 
 <div align="center"> 
-### Social Networks: 
+Social Networks: 
  </div>  
 <div align="center"> 
 <a href = "https://www.linkedin.com/in/kaio-antônio-andrade-rodrigues-7ba697217/" targe="_blank">    
@@ -53,7 +53,7 @@ style="max-width:100%;">
 </div>
   
 <div align="center"> 
-### Visitor count:
+Visitor count:
 <div align="center"> 
    <img src="https://profile-counter.glitch.me/KaioAntonio/count.svg" />
   </div>
