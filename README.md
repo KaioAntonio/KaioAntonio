@@ -50,7 +50,7 @@ style="max-width:100%;">
   
 <p align="center"> 
   ### Visitor count:
-  </p>
+  <p>
     <img src="https://profile-counter.glitch.me/KaioAntonio/count.svg" />
   </p>
 </p>
