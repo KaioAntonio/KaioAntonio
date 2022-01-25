@@ -40,6 +40,7 @@ width:100%;">
 
 
 ### Social Networks: 
+  
 <a href = "https://www.linkedin.com/in/kaio-antônio-andrade-rodrigues-7ba697217/" targe="_blank">    
 <img align="center" alt="Kaio-Linkedin" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
 style="max-width:100%;"> 
@@ -50,10 +51,11 @@ style="max-width:100%;"> <a href = "https://www.instagram.com/kaioozy/" targe="_
 style="max-width:100%;">
 
   
-
+<div align="center"> 
 ### Visitor count:
 <div align="center"> 
    <img src="https://profile-counter.glitch.me/KaioAntonio/count.svg" />
   </div>
+ </div>
     
     
