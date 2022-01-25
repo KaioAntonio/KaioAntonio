@@ -14,7 +14,8 @@
 
 <p align="center">
 Languages:
- 
+  </p>
+<p align="center"> 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;"> 
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
