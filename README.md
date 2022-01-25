@@ -51,7 +51,7 @@ style="max-width:100%;"> <a href = "https://www.instagram.com/kaioozy/" targe="_
 <img align="center" alt="Kaio-Insta" height="40" width="50" src="https://cdn-icons-png.flaticon.com/128/1409/1409946.png"
 style="max-width:100%;">
 </div>
-<br><br>
+<br>
 <div align="center"> 
 Visitor count:
   </div>
