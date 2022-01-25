@@ -12,12 +12,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioAntonio&layout=compact&langs_count=7&theme=dracula">
 </div>
 
-### Languages:
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="50" height= "50" style="max-
-width:100%;"> 
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
-width:100%;"> 
-
+<div align="center">
+  ### Languages:
+  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="50" height= "50" style="max-
+  width:100%;"> 
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
+  width:100%;"> 
+ </div>
   
 ### Frameworks:
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
