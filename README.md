@@ -54,9 +54,10 @@ style="max-width:100%;">
   
 <div align="center"> 
 Visitor count:
+  </div>
 <div align="center"> 
    <img src="https://profile-counter.glitch.me/KaioAntonio/count.svg" />
-  </div>
+
  </div>
     
     
