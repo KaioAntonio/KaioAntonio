@@ -52,7 +52,7 @@ style="max-width:100%;"> <a href = "https://www.instagram.com/kaioozy/" targe="_
 style="max-width:100%;">
 </div>
 <br>
-<div align="center"> 
+<div align="center" readonly> 
 Visitor count:
   </div>
 <div align="center"> 
