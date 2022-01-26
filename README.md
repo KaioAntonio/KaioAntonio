@@ -32,8 +32,7 @@ width:100%;">
 width:100%;">
 
 ### Data: 
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" alt="rails" width="50" height= "50" style="max-
-width:100%;"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
+ <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;">
 
 
