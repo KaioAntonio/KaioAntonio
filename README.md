@@ -28,8 +28,9 @@ width:100%;">
 <img src = "https://camo.githubusercontent.com/c10df2e24d96391a122aba452543d32b6291633148f482dc6e21452007e34b56/68747470733a2f2f6a6f6e617468616e6b61626c616e2e6769746875622e696f2f696d616765732f6d6174657269616c697a652e706e67" width="50" height= "50" style="max-
 width:100%;">
 
-### Data: 
+### Database: 
  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
+width:100%;">  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;">
 
 
