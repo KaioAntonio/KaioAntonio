@@ -18,7 +18,7 @@
 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;"> 
-  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;"> 
   
 ### Frameworks:
