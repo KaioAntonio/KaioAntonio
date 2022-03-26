@@ -22,7 +22,7 @@ width:100%;">
 width:100%;"> 
   
 ### Frameworks:
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="rails" width="50" height= "50" style="max-
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;">
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="rails" width="50" height= "50" style="max-
