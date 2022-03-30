@@ -27,6 +27,8 @@ width:100%;"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/boo
 width:100%;">
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="rails" width="50" height= "50" style="max-
 width:100%;"> 
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" alt="rails" width="50" height= "50" style="max-
+width:100%;"> 
 
 ### Database: 
  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
