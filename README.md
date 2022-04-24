@@ -14,40 +14,12 @@
 </div>
 
 
-### Languages:
-
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="50" height= "50" style="max-
-width:100%;"> 
-
+### Portfolio
+---
+| [<img src="https://kaio-antonio-portfolio.herokuapp.com/" width=115><br><sub>Kaio Antônio</sub>](https://github.com/KaioAntonio) |
+| :---: |
+Contact me 👋🏻 
   
-### Frameworks:
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="rails" width="50" height= "50" style="max-
-width:100%;"> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="rails" width="50" height= "50" style="max-
-width:100%;">
-  <img src = "https://img.icons8.com/nolan/344/flask.png" alt="rails" width="50" height= "50" style="max-
-width:100%;"> 
-
-### Database: 
- <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
-width:100%;">  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="rails" width="50" height= "50" style="max-
-width:100%;">
-
-
-### Tools: 
-<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="rails" width="50" height= "50" style="max-
-width:100%;">   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" alt="rails" width="50" height= "50" style="max-
-width:100%;">  
-
-### Social Networks: 
-<a href = "https://www.linkedin.com/in/kaio-antônio-andrade-rodrigues-7ba697217/" targe="_blank">    
-<img align="center" alt="Kaio-Linkedin" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-style="max-width:100%;"> 
-<a href = "https://www.facebook.com/kaio.andraderodrigues/" targe="_blank">
-<img align="center" alt="Kaio-Face" height="40" width="50" src="https://cdn-icons-png.flaticon.com/128/174/174848.png"
-style="max-width:100%;"> <a href = "https://www.instagram.com/kaioozy/" targe="_blank">
-<img align="center" alt="Kaio-Insta" height="40" width="50" src="https://cdn-icons-png.flaticon.com/128/1409/1409946.png"
-style="max-width:100%;">
-
 ### Visitor count:
 
 <img src="https://profile-counter.glitch.me/KaioAntonio/count.svg" />
