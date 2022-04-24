@@ -16,7 +16,7 @@
 
 ### Portfolio
 ---
-| [<img src="https://kaio-antonio-portfolio.herokuapp.com/" width=115><br><sub>Kaio Antônio</sub>](https://github.com/KaioAntonio) |
+| [<img src="https://avatars.githubusercontent.com/u/75454785?v=4" width=115><br><sub>Kaio Antônio</sub>](https://kaio-antonio-portfolio.herokuapp.com/) |
 | :---: |
 Contact me 👋🏻 
   
