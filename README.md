@@ -4,7 +4,6 @@
 * I'm Python Developer👨‍💻
 * I'm want to be a great Developer 👨‍💻
 * Studying Computer science at Tiradentes Univesity 👨‍🎓
-* I'm learning English ✈
 * I'm living in Aracaju-SE 🌴 
 
 <div>
@@ -14,7 +13,7 @@
 </div>
 
 
-### Portfolio
+### My Portfolio
 ---
 | [<img src="https://avatars.githubusercontent.com/u/75454785?v=4" width=115><br><sub>Click here</sub>](https://kaio-antonio-portfolio.herokuapp.com/) |
 | :---: |
