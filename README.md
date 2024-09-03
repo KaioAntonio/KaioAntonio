@@ -2,12 +2,6 @@
 # 👋 Hello! I'm Kaio Antônio Andrade Rodrigues
 
 
-<p align="center">
-  <img src=https://github.com/user-attachments/assets/c5263225-12ca-41f2-a89b-2da6e23ae13a alt="Kaio Antônio Andrade Rodrigues" width="200" height="200">
-</p>
-
-
-
 
 I'm a 22-year-old Software Developer with a passion for backend development, especially in Java. I am excited about contributing to impactful projects and being part of successful teams. My experience spans across various technologies, and I am always eager to learn and grow.
 
