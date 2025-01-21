@@ -41,6 +41,7 @@ I'm a 22-year-old Software Developer with a passion for backend development, esp
 🎓 Education & Certifications
 
 -    Bachelor in Computer Science - Universidade Tiradentes, 2024
+-    MBA in Software Engineer - USP, 2026
 
   
 ### Visitor count:
