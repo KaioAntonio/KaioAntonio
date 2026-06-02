@@ -77,7 +77,7 @@ I’m passionate about:
 
 # 🌎 Languages
 
-- 🇺🇸 English — Full Professional Proficiency (C1)
+- 🇺🇸 English — Full Professional Proficiency 
 - 🇧🇷 Portuguese — Native
 
 ---
