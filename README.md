@@ -48,6 +48,16 @@ Currently, I work with technologies such as Java, Spring Boot, Microservices, AW
 
 ---
 
+# 🌱 Open Source Contributions
+
+Bug fixes in [philterd/phileas](https://github.com/philterd/phileas), a Java PII/PHI redaction engine used for privacy and compliance workflows:
+
+- [#346](https://github.com/philterd/phileas/pull/346) — Fixed the IPv4 regex accepting truncated matches at the start/end of an address
+- [#347](https://github.com/philterd/phileas/pull/347) — Fixed numeric date patterns matching only a short prefix of a longer token
+- [#348](https://github.com/philterd/phileas/pull/348) — Fixed URL matching running past the URL into the following sentence
+
+---
+
 # 🎓 Education
 
 - 🎓 BSc in Computer Science — Universidade Tiradentes (2020 - 2024)
