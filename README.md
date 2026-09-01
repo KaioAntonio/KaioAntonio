@@ -56,6 +56,11 @@ Bug fixes in [philterd/phileas](https://github.com/philterd/phileas), a Java PII
 - [#347](https://github.com/philterd/phileas/pull/347) — Fixed numeric date patterns matching only a short prefix of a longer token
 - [#348](https://github.com/philterd/phileas/pull/348) — Fixed URL matching running past the URL into the following sentence
 
+Other contributions:
+
+- [aws/aws-durable-execution-sdk-java#673](https://github.com/aws/aws-durable-execution-sdk-java/pull/673) — Fixed `WaitForCondition`'s first check seeing raw state instead of the SerDes-normalized value every later check sees
+- [spinnaker/spinnaker#7945](https://github.com/spinnaker/spinnaker/pull/7945) — Fixed an RBAC filter in front50 checking permission against the wrong field, which could expose or hide pipelines incorrectly
+
 ---
 
 # 🎓 Education
